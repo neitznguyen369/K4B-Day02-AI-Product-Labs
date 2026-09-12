@@ -4,10 +4,10 @@
 
 ## Thông tin cá nhân
 
-- Họ và tên:
-- Mã học viên:
-- Nhóm:
-- Candidate problem nhóm chọn:
+- Họ và tên:Nguyễn Mạnh Tiến
+- Mã học viên:2A202602506
+- Nhóm: four faces
+- Candidate problem nhóm chọn: 
 
 ---
 
